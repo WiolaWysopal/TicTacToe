@@ -47,3 +47,5 @@ The **xWins()** and **oWins()** methods are invoked when one of the players wins
 5. Run project using _Run_ option (or similar).
 
 ### 🏆 Sample gameplay
+
+[Sample gameplay](https://github.com/WiolaWysopal/TicTacToe/blob/master/TicTacToeDemo.gif)
